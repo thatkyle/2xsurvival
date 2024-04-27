@@ -1,0 +1,57 @@
+Id,Building,Gold Cost,Lumber Cost,Hit Points,Armor Type,Armor,Sight,Build Time
+htow,Town Hall,385,205,1500/2400,Fort,5/8,90/60,180
+hkee,Keep,320,210,2000/3200,Fort,5/8,90/60,140
+hcas,Castle,360,210,2500/4000,Fort,5/8,90/60,140
+hbar,Barracks,160,60,1500/2400,Fort,5/8,90/60,60
+hhou,Farm,80,20,500/800,Fort,5/8,90/60,35
+halt,Altar of Kings,180,50,900/1440,Fort,5/8,90/60,60
+hlum,Lumber Mill,120,None,900/1440,Fort,5/8,90/60,60
+hwtw,Scout Tower,30,20,300/480,Light,0/6,160/100,25
+hbla,Blacksmith,140,60,1200/1920,Fort,5/8,90/60,70
+harm,Workshop,140,140,1200/1920,Fort,5/8,90/60,60
+hars,Arcane Sanctum,150,140,1050/1680,Fort,5/8,90/60,70
+hgra,Gryphon Aviary,140,150,1200/1920,Fort,5/8,90/60,75
+hvlt,Arcane Vault,130,30,485/776,Fort,5/8,90/60,60
+hgtw,Guard Tower,70,50,500/800,Heavy,5/8,160/80,50
+hctw,Cannon Tower,170,100,600/960,Fort,5/8,160/80,75
+hatw,Arcane Tower,70,50,500/800,Heavy,5/8,160/80,50
+ogre,Great Hall,385,185,1500,Fort,5,90/60,150
+ostr,Stronghold,315,190,1600,Fort,5,90/60,140
+ofrt,Fortress,325,190,1800,Fort,5,90/60,140
+obar,Barracks,180,50,1200,Fort,5,90/60,60
+oalt,Altar of Storms,180,50,900,Fort,5,90/60,60
+ofor,War Mill,205,0,1000,Fort,5,90/60,70
+obea,Beastiary,145,140,1100,Fort,5,90/60,60
+osld,Spirit Lodge,150,150,800,Fort,5,90/60,70
+otto,Tauren Totem,135,155,1200,Fort,5,90/60,70
+ovln,Voodoo Lounge,130,30,500,Fort,5,100/75,60
+otrb,Burrow,160,40,600,Heavy/Fort,5,80/80,50
+owtw,Watch Tower,110,80,500,Heavy/Fort,3,160/80,55
+ugol,Haunted Gold Mine,255,220,800,Fort,5,90/60,100
+unpl,Necropolis,255,0,1500,Fort,5,90/60,100
+unp1,Halls of the Dead,320,210,1750,Fort,5,120/80,140
+unp2,Black Citadel,325,230,2000,Fort,5,120/80,140
+usep,Crypt,200,50,1300,Fort,5,90/60,60
+uzig,Ziggurat,150,50,550,Fort,5,90/60,50
+uaod,Altar of Darkness,180,50,900,Fort,5,90/60,60
+ugrv,Graveyard,215,0,900,Fort,5,90/60,80
+uslh,Slaughterhouse,140,135,1200,Fort,5,90/60,60
+utod,Temple of the Damned,155,140,1100,Fort,5,90/60,60
+usap,Sacrificial Pit,75,150,900,Fort,5,90/60,45
+ubon,Boneyard,175,200,1500,Fort,5,90/60,70
+utom,Tomb of Relics,130,30,475,Fort,5,100/75,60
+uzg2,Nerubian Tower,100,20,550,Fort,5,160/80,30
+uzg1,Spirit Tower,145,40,550,Fort,5,160/80,35
+egol,Ent. Gold Mine,N/A,N/A,800,Fort,2,90/60,N/A
+etol,Tree of Life,340,185,1300,Fort,2/7,90/60,40/80
+etoa,Tree of Ages,320,180,1700,Fort,2/7,90/60,40/80
+etoe,Tree of Eternity,330,200,2000,Fort,2/7,90/60,40/80
+eaow,Ancient of War,150,60,1000,Fort,2/7,90/60,40/80
+eaoe,Ancient of Lore,155,145,900,Fort,2/7,90/60,40/80
+eaow,Ancient of Wind,150,140,900,Fort,2/7,90/60,40/80
+etrp,A Protector Rooted,135,80,600,Fort,1/3,190/80,N/A
+eden,Ancient of Wonders,90,30,450,Fort,2/7,100/75,40/80
+emow,Moon Well,180,40,600,Fort,5,90/60,N/A
+eate,Altar of Elders,180,50,900,Fort,5,90/60,N/A
+edob,Hunter's Hall,210,100,1100,Fort,5,90/60,N/A
+edos,Chimaera Roost,140,190,1200,Fort,5,90/60,N/A
