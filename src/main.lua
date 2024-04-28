@@ -1,3 +1,5 @@
+dofile('enemyWaves.lua')
+
 local function printTable(tbl, indent)
   if not indent then indent = 0 end
   for k, v in pairs(tbl) do
